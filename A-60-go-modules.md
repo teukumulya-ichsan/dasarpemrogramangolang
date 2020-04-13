@@ -68,7 +68,7 @@ Jika pada sebuah projek sudah enabled `dep`, dan ingin di enable Go Modules. Mak
 
 ## A.60.5. Sinkronisasi Dependencies
 
-Gunakan command `go mod tidy` untuk sinkronisasi dependencies yang digunakan dalam project. Dengan command tersebut, secara otomatis 3rd party yang belum ditambahkan akan dicatat dan ditambahkan; dan yang tidak digunakan tapi terlanjut tercatat akan dihapuskan.
+Gunakan command `go mod tidy` untuk sinkronisasi dependencies yang digunakan dalam project. Dengan command tersebut, secara otomatis 3rd party yang belum ditambahkan akan dicatat dan ditambahkan; dan yang tidak digunakan tapi terlanjur tercatat akan dihapuskan.
 
 ---
 
